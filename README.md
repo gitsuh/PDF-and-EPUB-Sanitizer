@@ -209,4 +209,4 @@ Sanitizing a file greatly lowers its risk, but no tool can promise perfection. K
 
 ## License
 
-MIT
+Released under the MIT License. See the (LICENSE file for the full text.
